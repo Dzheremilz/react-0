@@ -1,0 +1,11 @@
+#dark-theme {
+  background-color: black;
+  color: white;
+  border-color: #e7e7e7;
+  border-radius: 5px;
+}
+
+#light-theme {
+  background-color: white;
+  color: black;
+}
